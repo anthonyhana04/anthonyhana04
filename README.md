@@ -1,4 +1,4 @@
-### Hi there, I'm [Anthony Hana](https://anthonyhana04.github.io) 👋
+### Hi there, I'm [Anthony Hana](https://github.com/anthonyhana04) 👋
 
 I'm currently studying Mathematics & Computer Science from [McMaster University](https://https://www.mcmaster.ca/), Canada. Apart from that, I’m a growing software engineer who loves building projects in machine learning, computer vision, and data science, and I’m always eager to learn, collaborate, and contribute to impactful work.
 
