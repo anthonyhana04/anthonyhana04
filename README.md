@@ -5,7 +5,6 @@ I'm currently studying Mathematics & Computer Science from [McMaster University]
  **I am open to**:
 
 - Any Collaboration Work,
-- Machine Learning projects(development or research),
 - Research, SWE or Data Engineering internships!
   
 ## Skills:
