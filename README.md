@@ -25,7 +25,7 @@ Currently building high-throughput AI systems for autonomous email marketing—o
 
 ## Let's Connect
 
-Currently open to collaboration, research opportunities, and SWE/Data Engineering roles.
+Currently open to collaboration, research opportunities, and SWE/AI roles.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anthony-hana-797a3a208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
