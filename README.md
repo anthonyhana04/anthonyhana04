@@ -1,6 +1,6 @@
 # Hi, I'm Anthony 👋
 
-**AI & ML Engineer** [@LTV.ai](https://ltv.ai) | **Mathematics & Computer Science** [@McMaster University](https://www.mcmaster.ca/)
+**Software Engineer** [@LTV.ai](https://ltv.ai) | **Mathematics & Computer Science** [@McMaster University](https://www.mcmaster.ca/)
 
 Currently building high-throughput AI systems for autonomous email marketing—optimizing LLM workflows, implementing response caching, and scaling infrastructure to handle millions of personalized messages.
 
