@@ -14,7 +14,7 @@ Currently building high-throughput AI systems for autonomous email marketing—o
 ## Tech I Work With
 
 **Languages & Frameworks:** Python, TypeScript, Swift, Go, C++   
-**ML & Data:** TensorFlow, PyTorch, PostgresSQL, Redis  
+**ML & Data:** TensorFlow, PyTorch, PostgresSQL, Redis, Clickhouse  
 **Infrastructure:** AWS, PostgreSQL, LLMOps, Clickhouse
 
 ## Featured Projects
