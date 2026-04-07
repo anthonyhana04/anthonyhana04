@@ -20,7 +20,8 @@ Currently building high-throughput AI systems for autonomous email marketing—o
 ## Featured Projects
 
 **[MacPad](https://github.com/anthonyhana04/MacPad)** — A native macOS notepad built with SwiftUI and AppKit  
-**[LavaLock]([https://github.com/anthonyhana04/Hamilton-Transit-Map](https://github.com/anthonyhana04/LavaLock_DH_XII))** — Delta Hacks XII Winner, Security with entropy
+**[LavaLock](https://github.com/anthonyhana04/LavaLock_DH_XII)** — Delta Hacks XII Winner, Security with entropy
+
 **[Portfolio](https://github.com/anthonyhana04/Portfolio)** — Personal website built with React and Tailwind CSS
 
 ## Let's Connect
