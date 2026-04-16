@@ -15,7 +15,7 @@ Currently building high-throughput AI systems for autonomous email marketing—o
 
 **Languages & Frameworks:** Python, TypeScript, Swift, Go, C++   
 **ML & Data:** TensorFlow, PyTorch, PostgresSQL, Redis, Clickhouse  
-**Infrastructure:** AWS, PostgreSQL, LLMOps, Clickhouse
+**Infrastructure:** AWS, PostgreSQL, LLMOps, Clickhouse, SendGrid
 
 ## Featured Projects
 
