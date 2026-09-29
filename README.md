@@ -1,21 +1,22 @@
 # Hi, I'm Anthony 👋
 
-**Software Engineer** [@LTV.ai](https://ltv.ai) | **Mathematics & Computer Science** [@McMaster University](https://www.mcmaster.ca/)
+**Software Engineer** [@McMaster Start Coding](https://startcoding.mcmaster.ca) | **Mathematics & Computer Science** [@McMaster University](https://www.mcmaster.ca/)
 
-Currently building high-throughput AI systems for autonomous email marketing—optimizing LLM workflows, implementing response caching, and scaling infrastructure to handle millions of personalized messages.
+Currently building software for McMaster Start Coding, working on the MSC IDE and platform used by students across the university. I’m focused on improving developer tooling, supporting Haskell-based workflows, and building reliable software for large-scale educational use.
 
 ## What I'm Working On
 
-- Engineering AI systems that generate personalized content at scale 
-- Optimizing prompt strategies and token efficiency for production LLMs  
-- Building analytics dashboards for high-volume data insights  
-- Exploring the intersection of AI, infrastructure, and product
+- Building and improving the MSC IDE and multisite platform
+- Developing Haskell tooling and functionality for course workflows
+- Removing technical debt and improving maintainability across the codebase
+- Exploring AI/ML, developer tooling, and scalable software systems
 
 ## Tech I Work With
 
-**Languages & Frameworks:** Python, TypeScript, Swift, Go, C++   
-**ML & Data:** TensorFlow, PyTorch, PostgresSQL, Redis, Clickhouse  
-**Infrastructure:** AWS, PostgreSQL, LLMOps, Clickhouse, SendGrid
+**Languages:** Python, TypeScript, Swift, Go, C++, Haskell, JavaScript  
+**AI & ML:** PyTorch, TensorFlow, LLMOps, Prompt Engineering  
+**Data & Backend:** PostgreSQL, Redis, ClickHouse, REST APIs  
+**Infrastructure & Tools:** AWS, Docker, GitHub Actions, Terraform
 
 ## Featured Projects
 
